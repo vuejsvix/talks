@@ -38,16 +38,16 @@
     <a href="https://github.com/vuejsvix/talks/labels/boas%20pr%C3%A1ticas">
         Boas práticas
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/Carreira">
+    <a href="https://github.com/vuejsvix/talks/labels/carreira">
         Carreira
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/Infraestrutura">
+    <a href="https://github.com/vuejsvix/talks/labels/infraestrutura">
         Intraestrutura
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/POO">
+    <a href="https://github.com/vuejsvix/talks/labels/paradigmas">
         Paradigmas
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/Seguran%C3%A7a">
+    <a href="https://github.com/vuejsvix/talks/labels/seguran%C3%A7a">
         Segurança
     </a>&nbsp;
     <a href="https://github.com/vuejsvix/talks/labels/testes">
