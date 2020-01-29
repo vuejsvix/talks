@@ -1,3 +1,5 @@
+<!-- Substitua os textos de exemplo ou siga suas instruções -->
+
 **Título**: <!-- ex.: Criando aplicações com Vue.js -->
 
 **Palavras-chave**: <!-- ex.: `vue`, `app`, `javascript` -->
@@ -10,7 +12,7 @@
 - [ ] [Intermediário](https://github.com/vuejsvix/talks/labels/Nível%20Intermedi%C3%A1rio)
 - [ ] [Avançado](https://github.com/vuejsvix/talks/labels/Nível%20Avan%C3%A7ado)
 
-**Palestrante**: <!-- [ex.: João da Silva](https://github.com/{username}) -->
+**Palestrante**: <!-- [ex.: João da Silva](https://github.com/joao-da-silva) -->
 
 **Descrição da palestra**:
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
