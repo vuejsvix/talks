@@ -11,7 +11,7 @@
 ---
 <p align="center">
     <h4 align="center">
-      <a href="https://github.com/vuejsvix/talks/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
+      <a href="https://github.com/vuejsvix/talks/issues">
         Visualisar todas as Palestras
       </a>&nbsp;
     </h4>
