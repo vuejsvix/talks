@@ -6,9 +6,9 @@
 <!--
 - [x] ex.: selecione um item abaixo com um x e selecione um label com mesmo nome à direita
 -->
-- [ ] [Iniciante](https://github.com/vuejsvix/talks/labels/iniciante)
-- [ ] [Intermediário](https://github.com/vuejsvix/talks/labels/intermadi%C3%A1rio)
-- [ ] [Avançado](https://github.com/vuejsvix/talks/labels/avan%C3%A7ado)
+- [ ] [Iniciante](https://github.com/vuejsvix/talks/labels/Nível%20Iniciante)
+- [ ] [Intermediário](https://github.com/vuejsvix/talks/labels/Nível%20Intermedi%C3%A1rio)
+- [ ] [Avançado](https://github.com/vuejsvix/talks/labels/Nível%20Avan%C3%A7ado)
 
 **Palestrante**: <!-- [ex.: João da Silva](https://github.com/{username}) -->
 
