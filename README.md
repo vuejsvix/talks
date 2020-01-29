@@ -10,9 +10,11 @@
 
 ---
 <p align="center">
-    <a href="https://github.com/vuejsvix/talks/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
-        <h2 align="center">Consultar Palestras</h2>
-    </a>&nbsp;
+    <h4 align="center">
+      <a href="https://github.com/vuejsvix/talks/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
+        Visualisar todas as Palestras
+      </a>&nbsp;
+    </h4>
 </p>
 
 <h2 align="center">Níveis</h2>
