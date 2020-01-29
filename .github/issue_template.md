@@ -22,8 +22,8 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!-- **[Slides](https://github.com/vuejsvix/talks)** (opcional) -->
+<!-- **[Slides](https://slides.com/React-VIX/talks)** (opcional) -->
 
-<!-- **[Vídeo](https://github.com/vuejsvix/talks)** (opcional) -->
+<!-- **[Vídeo](https://youtube.com/React-VIX/talks)** (opcional) -->
 
-<!-- **[GitHub](https://github.com/vuejsvix/talks)** (opcional) -->
+<!-- **[GitHub](https://github.com/React-VIX/talks)** (opcional) -->
