@@ -6,7 +6,7 @@
 
 **Nível**:
 <!--
-- [x] ex.: selecione um item abaixo com um x e selecione um label com mesmo nome à direita
+- [x] ex.: selecione um item abaixo com um x
 -->
 - [ ] [Iniciante](https://github.com/vuejsvix/talks/labels/Nível%20Iniciante)
 - [ ] [Intermediário](https://github.com/vuejsvix/talks/labels/Nível%20Intermedi%C3%A1rio)
