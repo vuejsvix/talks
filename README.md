@@ -9,10 +9,9 @@
 </p>
 
 ---
-<h2 align="center">Consulte</h2>
 <p align="center">
     <a href="https://github.com/vuejsvix/talks/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
-        Palestras
+        <h2 align="center">Consultar Palestras</h2>
     </a>&nbsp;
 </p>
 
