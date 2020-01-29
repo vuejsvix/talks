@@ -19,13 +19,13 @@
 
 <h2 align="center">Níveis</h2>
 <p align="center">
-    <a href="https://github.com/vuejsvix/talks/labels/iniciante">
+    <a href="https://github.com/vuejsvix/talks/labels/Nível%20Iniciante">
         Iniciante
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/intermadi%C3%A1rio">
+    <a href="https://github.com/vuejsvix/talks/labels/Nível%20Intermedi%C3%A1rio">
         Intermediário
     </a>&nbsp;
-    <a href="https://github.com/vuejsvix/talks/labels/avan%C3%A7ado">
+    <a href="https://github.com/vuejsvix/talks/labels/Nível%20Avan%C3%A7ado">
         Avançado
     </a>&nbsp;
 </p>
