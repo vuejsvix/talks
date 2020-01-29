@@ -3,12 +3,12 @@
 **Palavras-chave**: *ex.:* `vue`, `app`, `javascript`
 
 **Nível**:
-- [x] *ex.: selecione um item abaixo com um x*
+- [x] *ex.: selecione um item abaixo com um x e selecione um label com mesmo nome à direita*
 - [ ] [Iniciante](https://github.com/vuejsvix/talks/labels/iniciante)
 - [ ] [Intermediário](https://github.com/vuejsvix/talks/labels/intermadi%C3%A1rio)
 - [ ] [Avançado](https://github.com/vuejsvix/talks/labels/avan%C3%A7ado)
 
-**Palestrante**: [*ex.: João da Silva*](https://github.com/myUser)
+**Palestrante**: *[ex.: João da Silva](https://github.com/{username})*
 
 **Descrição da palestra**:
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
